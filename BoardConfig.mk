@@ -15,7 +15,7 @@
 #
 
 TARGET_KERNEL_CONFIG := cyanogenmod_g2-att-perf_defconfig
-
+G2_DTS_TARGET := msm8974-g2-att
 
 # inherit from d800-common
 -include device/lge/d800-common/BoardConfigCommon.mk
